@@ -1,1 +1,0 @@
-# windows-idea-setting
