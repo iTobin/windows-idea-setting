@@ -34,33 +34,18 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
-          </list>
-        </option>
-      </Goals>
-    </option>
-    <option name="pluginAwareGoals">
-      <Goals>
-        <option name="goals">
-          <list>
             <Goal>
-              <option name="commandLine" value="jetty:run" />
+              <option name="commandLine" value="mvn install -P nanhai-test" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="tomcat:run" />
+              <option name="commandLine" value="install -P nanhai-test" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="tomcat5:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat6:run" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="tomcat7:run" />
+              <option name="commandLine" value="install -P nanhai-prod" />
             </Goal>
           </list>
         </option>
       </Goals>
     </option>
-    <option name="version" value="1" />
   </component>
 </application>
