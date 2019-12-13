@@ -35,13 +35,7 @@
               <option name="commandLine" value="clean install" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="mvn install -P nanhai-test" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="install -P nanhai-test" />
-            </Goal>
-            <Goal>
-              <option name="commandLine" value="install -P nanhai-prod" />
             </Goal>
             <Goal>
               <option name="commandLine" value="install -P nanhai-prod" />
