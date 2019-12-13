@@ -43,6 +43,9 @@
             <Goal>
               <option name="commandLine" value="install -P nanhai-prod" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="install -P nanhai-prod" />
+            </Goal>
           </list>
         </option>
       </Goals>
