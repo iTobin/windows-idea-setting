@@ -40,6 +40,9 @@
             <Goal>
               <option name="commandLine" value="install -P nanhai-prod" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="idea:module" />
+            </Goal>
           </list>
         </option>
       </Goals>
