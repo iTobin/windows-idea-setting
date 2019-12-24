@@ -43,6 +43,9 @@
             <Goal>
               <option name="commandLine" value="idea:module" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="install -P local" />
+            </Goal>
           </list>
         </option>
       </Goals>
