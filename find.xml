@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File 'C:\Program Files\AdoptOpenJDK\jdk-11.0.7.10-hotspot\lib\src.zip!\java.base\java\lang\ThreadLocal.java [11]'" />
+    <option name="defaultScopeName" value="File 'C:\Program Files\AdoptOpenJDK\jdk-11.0.7.10-hotspot\lib\src.zip!\java.base\java\lang\ThreadLocal.java [11]'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Program Files\AdoptOpenJDK\jdk-11.0.7.10-hotspot\lib\src.zip!\java.base\java\lang\ThreadLocal.java [11]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
